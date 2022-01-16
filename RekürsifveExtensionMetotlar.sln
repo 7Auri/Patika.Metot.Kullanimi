@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaÖdevMetotCSharp", "PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp.csproj", "{30D616EE-091F-4B0D-A078-FCD58EA5B858}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekürsifveExtensionMetotlar", "RekürsifveExtensionMetotlar\RekürsifveExtensionMetotlar.csproj", "{F615077E-9E6A-4525-8BB7-BCCC1B3DBC25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{30D616EE-091F-4B0D-A078-FCD58EA5B858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30D616EE-091F-4B0D-A078-FCD58EA5B858}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30D616EE-091F-4B0D-A078-FCD58EA5B858}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30D616EE-091F-4B0D-A078-FCD58EA5B858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F615077E-9E6A-4525-8BB7-BCCC1B3DBC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F615077E-9E6A-4525-8BB7-BCCC1B3DBC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F615077E-9E6A-4525-8BB7-BCCC1B3DBC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F615077E-9E6A-4525-8BB7-BCCC1B3DBC25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3A52A9F6-7150-4561-8389-1A3ECCCC4DFD}
+		SolutionGuid = {66F07D72-2AF3-4177-9B52-AEC7A2159DDC}
 	EndGlobalSection
 EndGlobal

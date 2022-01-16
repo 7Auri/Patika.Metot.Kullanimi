@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "PatikaÖdevMetotCSharp/1.0.0": {
+      "RekürsifveExtensionMetotlar/1.0.0": {
         "runtime": {
-          "PatikaÖdevMetotCSharp.dll": {}
+          "RekürsifveExtensionMetotlar.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "PatikaÖdevMetotCSharp/1.0.0": {
+    "RekürsifveExtensionMetotlar/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

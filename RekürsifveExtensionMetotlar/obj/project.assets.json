@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Patika Büşra\\PatikaÖdevMetotCSharp\\PatikaÖdevMetotCSharp\\PatikaÖdevMetotCSharp.csproj",
-      "projectName": "PatikaÖdevMetotCSharp",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\PatikaÖdevMetotCSharp\\PatikaÖdevMetotCSharp\\PatikaÖdevMetotCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Patika Büşra\\RekürsifveExtensionMetotlar\\RekürsifveExtensionMetotlar\\RekürsifveExtensionMetotlar.csproj",
+      "projectName": "RekürsifveExtensionMetotlar",
+      "projectPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\RekürsifveExtensionMetotlar\\RekürsifveExtensionMetotlar\\RekürsifveExtensionMetotlar.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\PatikaÖdevMetotCSharp\\PatikaÖdevMetotCSharp\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\RekürsifveExtensionMetotlar\\RekürsifveExtensionMetotlar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
