@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\bin\Debug\net5.0\PatikaÖdevMetotCSharp.exe
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\bin\Debug\net5.0\PatikaÖdevMetotCSharp.deps.json
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\bin\Debug\net5.0\PatikaÖdevMetotCSharp.runtimeconfig.json
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\bin\Debug\net5.0\PatikaÖdevMetotCSharp.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\bin\Debug\net5.0\PatikaÖdevMetotCSharp.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\bin\Debug\net5.0\ref\PatikaÖdevMetotCSharp.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\bin\Debug\net5.0\PatikaÖdevMetotCSharp.pdb
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.AssemblyInfo.cs
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\ref\PatikaÖdevMetotCSharp.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.pdb
+C:\Users\dell\Desktop\Patika Büşra\PatikaÖdevMetotCSharp\PatikaÖdevMetotCSharp\obj\Debug\net5.0\PatikaÖdevMetotCSharp.genruntimeconfig.cache
