@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\bin\Debug\net5.0\PatikaMetotOverloading.exe
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\bin\Debug\net5.0\PatikaMetotOverloading.deps.json
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\bin\Debug\net5.0\PatikaMetotOverloading.runtimeconfig.json
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\bin\Debug\net5.0\PatikaMetotOverloading.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\bin\Debug\net5.0\PatikaMetotOverloading.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\bin\Debug\net5.0\ref\PatikaMetotOverloading.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\bin\Debug\net5.0\PatikaMetotOverloading.pdb
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.AssemblyInfo.cs
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\ref\PatikaMetotOverloading.dll
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.pdb
+C:\Users\dell\Desktop\Patika Büşra\PatikaMetotOverloading\PatikaMetotOverloading\obj\Debug\net5.0\PatikaMetotOverloading.genruntimeconfig.cache
