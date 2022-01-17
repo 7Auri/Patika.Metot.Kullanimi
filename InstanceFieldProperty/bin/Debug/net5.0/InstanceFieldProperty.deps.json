@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ArrayList/1.0.0": {
+      "InstanceFieldProperty/1.0.0": {
         "runtime": {
-          "ArrayList.dll": {}
+          "InstanceFieldProperty.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ArrayList/1.0.0": {
+    "InstanceFieldProperty/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
