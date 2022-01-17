@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EncapsulationKavram/1.0.0": {
+        "runtime": {
+          "EncapsulationKavram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncapsulationKavram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
