@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\bin\Debug\net5.0\EncapsulationKavram.exe
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\bin\Debug\net5.0\EncapsulationKavram.deps.json
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\bin\Debug\net5.0\EncapsulationKavram.runtimeconfig.json
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\bin\Debug\net5.0\EncapsulationKavram.runtimeconfig.dev.json
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\bin\Debug\net5.0\EncapsulationKavram.dll
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\bin\Debug\net5.0\ref\EncapsulationKavram.dll
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\bin\Debug\net5.0\EncapsulationKavram.pdb
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.AssemblyInfo.cs
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.dll
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\ref\EncapsulationKavram.dll
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.pdb
+C:\Users\dell\source\repos\EncapsulationKavram\EncapsulationKavram\obj\Debug\net5.0\EncapsulationKavram.genruntimeconfig.cache

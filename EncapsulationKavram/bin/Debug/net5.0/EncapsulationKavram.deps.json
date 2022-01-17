@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ArrayList/1.0.0": {
+      "EncapsulationKavram/1.0.0": {
         "runtime": {
-          "ArrayList.dll": {}
+          "EncapsulationKavram.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ArrayList/1.0.0": {
+    "EncapsulationKavram/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
