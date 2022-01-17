@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Patika Büşra\\ArrayList\\ArrayList\\ArrayList.csproj",
-      "projectName": "ArrayList",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\ArrayList\\ArrayList\\ArrayList.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Patika Büşra\\Static Sınıf ve Üyeler\\Static Sınıf ve Üyeler\\Static Sınıf ve Üyeler.csproj",
+      "projectName": "Static Sınıf ve Üyeler",
+      "projectPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\Static Sınıf ve Üyeler\\Static Sınıf ve Üyeler\\Static Sınıf ve Üyeler.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\ArrayList\\ArrayList\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\Patika Büşra\\Static Sınıf ve Üyeler\\Static Sınıf ve Üyeler\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

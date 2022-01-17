@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "ArrayList/1.0.0": {
+      "Static Sınıf ve Üyeler/1.0.0": {
         "runtime": {
-          "ArrayList.dll": {}
+          "Static Sınıf ve Üyeler.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ArrayList/1.0.0": {
+    "Static Sınıf ve Üyeler/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
