@@ -1,0 +1,32 @@
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.exe
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.deps.json
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.runtimeconfig.json
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.runtimeconfig.dev.json
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.dll
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\ref\InstanceFieldProperty.dll
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.pdb
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.AssemblyInfo.cs
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.dll
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\ref\InstanceFieldProperty.dll
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.pdb
+C:\Users\dell\source\repos\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.genruntimeconfig.cache
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.exe
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.deps.json
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.runtimeconfig.json
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.dll
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\ref\InstanceFieldProperty.dll
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\bin\Debug\net5.0\InstanceFieldProperty.pdb
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.AssemblyInfo.cs
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.dll
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\ref\InstanceFieldProperty.dll
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.pdb
+C:\Users\dell\Desktop\Patika Büşra\InstanceFieldProperty\InstanceFieldProperty\obj\Debug\net5.0\InstanceFieldProperty.genruntimeconfig.cache
